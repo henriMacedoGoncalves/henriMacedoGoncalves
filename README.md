@@ -1,6 +1,6 @@
-Hi, my name is Henri Macedo Gonçalves and I'm in my third year of Computer Science at the University of Strasbourg.
+Hi, my name is Henri Macedo Gonçalves and I'm a graduate in Computer Science at the University of Strasbourg.
 
-Originally from Luxembourg, I am currently looking for Internships related to Communication, Web Development or Data Management.
+Originally from Luxembourg, I am currently looking for Internships related to Software Development,Cybersecurity, IT managment and DevOps. However I am also curious about Data Science, Machine Learning/AI and Networking.
 My university helped me building a solid foundation in those domains and I am interested to expand my skills in real-world problems.
 
 In my free time, I like to do Calisthenics, read (mostly self-educating) books and occasionally play video games.
